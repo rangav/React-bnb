@@ -8,14 +8,15 @@ import React, {
 } from 'react-native';
 import { fetch } from 'fetch';
 
-// TASK #2. Change text color and make it bigger. Add some margin between text and image.
-//          Make the content centered
-// TASK #3: Make image tappable (see TouchableOpacity or TouchableHighlight)
-// TASK #4: Uncomment the query in `componentDidMount`
-// TASK #5. Show number of listings instead of "Hello, fox!"
-// TASK #6. Render listing titles. For every record you want to render its own <Text />
-// TASK #7. Extract secret view into its own component. Add more info. Make the list scrollable
-// TASK #8. Add ability to like listings
+// #1. Explore and have fun!
+// #2. Change text color and make it bigger. Add some margin between text and image.
+//     Make the content centered
+// #3. Make image tappable (see TouchableOpacity or TouchableHighlight)
+// #4. Uncomment the query in `componentDidMount`
+// #5. Show number of listings instead of "Hello, fox!"
+// #6. Render listing titles. For every record you want to render its own <Text />
+// #7. Extract secret view into its own component. Add more info. Make the list scrollable
+// #8. Add ability to like listings
 
 class ReactBnb extends Component {
   constructor() {
