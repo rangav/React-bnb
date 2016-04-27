@@ -65,6 +65,7 @@
 .*/node_modules/isemail/.*\.json
 .*/node_modules/tr46/.*\.json
 
+.*/etc/sample_data\.json
 
 [include]
 
