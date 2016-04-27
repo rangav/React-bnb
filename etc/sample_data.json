@@ -1,0 +1,326 @@
+[
+  {
+    "id": 8778879,
+    "name": "Majestic SC Panoramic w/Queen bed",
+    "instantBook": true,
+    "price": 79,
+    "starRating": 5,
+    "reviewsCount": 40,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/a5d62823-d3bc-4f58-b946-f4898a3c519d.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 193973,
+    "name": "Harbor Studio Near Beach Boardwalk",
+    "instantBook": true,
+    "price": 99,
+    "starRating": 5,
+    "reviewsCount": 126,
+    "previewImageURL": "https://a2.muscache.com/im/pictures/1266382/857cfe0c_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 12209700,
+    "name": "Sunny Seabright Room",
+    "instantBook": false,
+    "price": 90,
+    "starRating": 0,
+    "reviewsCount": 2,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/434a1b91-c5db-4508-94db-575607cc8747.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 1851383,
+    "name": "Room & Bath @ Modern Beach House",
+    "instantBook": true,
+    "price": 125,
+    "starRating": 5,
+    "reviewsCount": 4,
+    "previewImageURL": "https://a1.muscache.com/im/pictures/26800920/5bd3f17c_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 709637,
+    "name": "Sunny Comfy Bedroom in Paradise",
+    "instantBook": false,
+    "price": 65,
+    "starRating": 5,
+    "reviewsCount": 77,
+    "previewImageURL": "https://a2.muscache.com/im/pictures/15779920/14c5aa91_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 6919996,
+    "name": "Queen RM Downtown Boardwalk Beach",
+    "instantBook": true,
+    "price": 68,
+    "starRating": 5,
+    "reviewsCount": 57,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/0713a039-2551-4eac-8d4e-207e75304b6d.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 3441663,
+    "name": "Seabright beach charmer!",
+    "instantBook": false,
+    "price": 222,
+    "starRating": 5,
+    "reviewsCount": 67,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/48164719/7f4584fb_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 8784494,
+    "name": "Sky Dream w/Ocean Views + Priv Bath",
+    "instantBook": true,
+    "price": 79,
+    "starRating": 5,
+    "reviewsCount": 48,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/51b3c7d1-c652-46a8-975e-4318c521a193.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 2809175,
+    "name": "ABOUT A VIEW  Relax And Romance!",
+    "instantBook": true,
+    "price": 125,
+    "starRating": 5,
+    "reviewsCount": 109,
+    "previewImageURL": "https://a2.muscache.com/im/pictures/42086370/62be3a04_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 5371595,
+    "name": "Affordable Cozy Downtown Hideaway",
+    "instantBook": true,
+    "price": 73,
+    "starRating": 5,
+    "reviewsCount": 41,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/68462130/98ee7e2f_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 11024713,
+    "name": "Cozy, Rustic and Playful Room!",
+    "instantBook": false,
+    "price": 62,
+    "starRating": 5,
+    "reviewsCount": 12,
+    "previewImageURL": "https://a1.muscache.com/im/pictures/62c8b521-b57e-48c0-a958-fa8547211288.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 6848562,
+    "name": "Comfy Cruz Cottage",
+    "instantBook": false,
+    "price": 100,
+    "starRating": 5,
+    "reviewsCount": 34,
+    "previewImageURL": "https://a1.muscache.com/im/pictures/106036195/5da5cf5d_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 3782749,
+    "name": "Steps to Beach, Comforts of Home",
+    "instantBook": false,
+    "price": 126,
+    "starRating": 5,
+    "reviewsCount": 72,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/84792019/fa3eba78_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 3439173,
+    "name": "Aptos Forest Retreat ~ Guest Studio",
+    "instantBook": true,
+    "price": 125,
+    "starRating": 5,
+    "reviewsCount": 71,
+    "previewImageURL": "https://a1.muscache.com/im/pictures/51453986/9af2708f_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 8794312,
+    "name": "Peach Room w/Nature Views & Queen",
+    "instantBook": true,
+    "price": 75,
+    "starRating": 5,
+    "reviewsCount": 38,
+    "previewImageURL": "https://a2.muscache.com/im/pictures/052946d7-d37e-4c15-a74b-ac1bdb8dcc68.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 8759434,
+    "name": "Mission View Room with Queen",
+    "instantBook": true,
+    "price": 75,
+    "starRating": 5,
+    "reviewsCount": 38,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/a2fe4986-a8a0-4b1a-9441-278a1c9b5490.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 5395988,
+    "name": "Jasmine Studio by Beach-Deck&Garden",
+    "instantBook": true,
+    "price": 115,
+    "starRating": 5,
+    "reviewsCount": 125,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/67563048/970c2b6c_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 9717281,
+    "name": "Cozy Studio!",
+    "instantBook": true,
+    "price": 89,
+    "starRating": 5,
+    "reviewsCount": 19,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/a4420930-406a-4dca-95a9-949e72808795.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 4252106,
+    "name": "Best View In Town! Capitola Condo.",
+    "instantBook": false,
+    "price": 245,
+    "starRating": 5,
+    "reviewsCount": 88,
+    "previewImageURL": "https://a1.muscache.com/im/pictures/73571480/1d7645ef_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 2144665,
+    "name": "Copper Tub Cottage",
+    "instantBook": true,
+    "price": 120,
+    "starRating": 5,
+    "reviewsCount": 259,
+    "previewImageURL": "https://a2.muscache.com/im/pictures/45542791/67568ddf_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 5815842,
+    "name": "Creekside Cabin",
+    "instantBook": false,
+    "price": 147,
+    "starRating": 5,
+    "reviewsCount": 56,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/73187280/8e6ed1a6_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 7474325,
+    "name": "Sunny Private Downtown Studio",
+    "instantBook": false,
+    "price": 115,
+    "starRating": 5,
+    "reviewsCount": 116,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/99346897/60bb93ad_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 6761344,
+    "name": "Pleasure Point Beach Bungalow",
+    "instantBook": true,
+    "price": 130,
+    "starRating": 5,
+    "reviewsCount": 57,
+    "previewImageURL": "https://a1.muscache.com/im/pictures/88335167/5d217163_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 11969015,
+    "name": "Apartment near the beach",
+    "instantBook": false,
+    "price": 100,
+    "starRating": 0,
+    "reviewsCount": 0,
+    "previewImageURL": "https://a1.muscache.com/im/pictures/656da310-3221-4279-a109-041cdb92954d.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 8288218,
+    "name": "Private studio w/King + Ocean Views",
+    "instantBook": true,
+    "price": 100,
+    "starRating": 5,
+    "reviewsCount": 56,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/111383888/c6c952e6_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 747421,
+    "name": "Clean, comfortable, close to Beach!",
+    "instantBook": false,
+    "price": 79,
+    "starRating": 4.5,
+    "reviewsCount": 167,
+    "previewImageURL": "https://a1.muscache.com/im/pictures/18926967/fc9442c1_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 1291937,
+    "name": "SUP, Run, Ride..The SURF SHACK!",
+    "instantBook": false,
+    "price": 95,
+    "starRating": 4.5,
+    "reviewsCount": 48,
+    "previewImageURL": "https://a2.muscache.com/im/pictures/20509494/20d796cf_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 3992209,
+    "name": "Mountains or ocean, why choose?",
+    "instantBook": true,
+    "price": 90,
+    "starRating": 4.5,
+    "reviewsCount": 20,
+    "previewImageURL": "https://a2.muscache.com/im/pictures/52074468/bf83e4bc_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 10838032,
+    "name": "Cozy RM Beach Downtown Boardwalk",
+    "instantBook": true,
+    "price": 49,
+    "starRating": 5,
+    "reviewsCount": 13,
+    "previewImageURL": "https://a2.muscache.com/im/pictures/5cc5b436-2534-48fe-a704-2980a6e47768.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 7095460,
+    "name": "Queen+Twin-Downtown Beach Boardwalk",
+    "instantBook": true,
+    "price": 55,
+    "starRating": 5,
+    "reviewsCount": 74,
+    "previewImageURL": "https://a1.muscache.com/im/pictures/39e5bec8-cfb5-4377-9e3b-30addf71371f.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 10902787,
+    "name": "Sunny Private Studio",
+    "instantBook": true,
+    "price": 75,
+    "starRating": 5,
+    "reviewsCount": 3,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/94999391-1088-4646-928f-2b32996370fb.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 2578552,
+    "name": "Coastal Mountain Recharge",
+    "instantBook": true,
+    "price": 105,
+    "starRating": 5,
+    "reviewsCount": 77,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/68624228/4faf8654_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 1426294,
+    "name": "HARBOR/SEABRIGHT BEACH ROOMY STUDIO",
+    "instantBook": false,
+    "price": 145,
+    "starRating": 4.5,
+    "reviewsCount": 68,
+    "previewImageURL": "https://a2.muscache.com/im/pictures/29651840/d0cc121d_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 8017497,
+    "name": "Seacliff Beach Retreat; Hot tub",
+    "instantBook": false,
+    "price": 90,
+    "starRating": 5,
+    "reviewsCount": 34,
+    "previewImageURL": "https://a2.muscache.com/im/pictures/43cd7b86-337a-4c6a-8e4a-d88d1a7690f5.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 5826459,
+    "name": "Private Aptos Studio",
+    "instantBook": false,
+    "price": 110,
+    "starRating": 5,
+    "reviewsCount": 82,
+    "previewImageURL": "https://a0.muscache.com/im/pictures/84184050/d107f9af_original.jpg?aki_policy=x_medium"
+  },
+  {
+    "id": 8287761,
+    "name": "Cozy Garden Cottage w/Enclosed Deck",
+    "instantBook": true,
+    "price": 100,
+    "starRating": 5,
+    "reviewsCount": 55,
+    "previewImageURL": "https://a1.muscache.com/im/pictures/110252994/ddaf4de7_original.jpg?aki_policy=x_medium"
+  }
+]
