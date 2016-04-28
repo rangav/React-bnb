@@ -27,7 +27,10 @@ class ReactBnb extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Image style={styles.foxImage} source={{uri: 'http://i.imgur.com/bmlBvRN.png'}} />
+        <Image
+          style={styles.foxImage}
+          source={{uri: 'http://i.imgur.com/bmlBvRN.png'}}
+        />
         <View style={{marginTop: 20}}>
           <Text style={styles.helloText}>Hello, fox!</Text>
         </View>
@@ -36,7 +39,7 @@ class ReactBnb extends Component {
   }
 
   componentDidMount() {
-    // fetch('https://gist.githubusercontent.com/frantic/892564944e2230ee712a76f2a214365d/raw/f70108c5d089f3316fc0dd1386ec2074287fedbe/listings.json')
+    // fetch('https://goo.gl/r3r3FN')
     //   .then(response => response.json())
     //   .then((data) => {
     //     console.log('Response from API:', data);
