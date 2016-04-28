@@ -8,4 +8,6 @@ export type Listing = {
   starRating: number;
   reviewsCount: number;
   previewImageURL: string;
+  typeText: string;
+  location: string;
 };
