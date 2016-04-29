@@ -33,7 +33,7 @@ class ReactBnb extends Component {
       <View style={styles.container}>
         <Image
           style={styles.foxImage}
-          source={{uri: 'http://i.imgur.com/bmlBvRN.png'}}
+          source={require('./img/fox.png')}
         />
         <View style={{marginTop: 20}}>
           <Text style={styles.helloText}>Hello, fox!</Text>
