@@ -1,3 +1,5 @@
+/* @flow */
+
 import React, {
   AppRegistry,
   Component,
@@ -7,6 +9,8 @@ import React, {
   Image,
 } from 'react-native';
 import { fetch } from 'fetch';
+
+import type { Listing } from './data';
 
 // #1. Explore and have fun!
 // #2. Change text color and make it bigger. Add some margin between text and image.
@@ -43,7 +47,6 @@ class ReactBnb extends Component {
     //   .then(response => response.json())
     //   .then((data) => {
     //     console.log('Response from API:', data);
-    //     this.setState({listings: data});
     //   });
   }
 }
