@@ -2,9 +2,11 @@
 
 This guide assumes you already have iOS (Xcode, iOS SDK, etc.) or Android (SDK, emulator, etc.) development environment setup.
 
-**Step 1.** Get Node.js (version 4 or higher). React Native uses it to transform and bundle JS code. The easiest way to install/upgrade/uninstall node is to use [Homebrew](http://brew.sh/).
+**Step 1.** Get Node.js (version 5 or higher). React Native uses it to transform and bundle JS code. The easiest way to install/upgrade/uninstall node is to use [Homebrew](http://brew.sh/).
 
     brew install node
+    node -v
+    # Should print something like "v5.10.0"
 
 **Step 2.** Clone this repo. Might take some time because it also contains all dependencies required to build the project (~22MB)
 
@@ -25,3 +27,16 @@ Feel free to use any editor you are comfortable with for editing JavaScript code
 1. [Atom](https://atom.io) (optional: [language-babel](https://atom.io/packages/language-babel))
 2. [Sublime Text](https://www.sublimetext.com/3) (optional: [babel-sublime](https://github.com/babel/babel-sublime))
 3. [WebStorm](https://www.jetbrains.com/webstorm/)
+
+# Troubleshooting
+
+> npm ERR ....
+
+Make sure your Node.js version is 5 or higher
+
+> adb: Unable to dispatch keyboard events in JS as the react instance has not been attached
+
+If you used IntelliJ or Gradle directly (instead of `npm run android`), run the following commands:
+
+    adb reverse tcp:8081 tcp:8081
+    npm start
