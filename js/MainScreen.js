@@ -9,6 +9,7 @@ import React, {
   Image,
 } from 'react-native';
 import { fetch } from 'fetch';
+import { AIRBNB_API } from './data';
 
 import type { Listing } from './data';
 
@@ -23,11 +24,6 @@ import type { Listing } from './data';
 // #8. Add ability to like listings
 
 class ReactBnb extends Component {
-  constructor() {
-    super();
-    this.state = { listings: [] };
-  }
-
   render() {
     return (
       <View style={styles.container}>
@@ -43,7 +39,7 @@ class ReactBnb extends Component {
   }
 
   componentDidMount() {
-    // fetch('https://goo.gl/r3r3FN')
+    // fetch(AIRBNB_API)
     //   .then(response => response.json())
     //   .then((data) => {
     //     console.log('Response from API:', data);
